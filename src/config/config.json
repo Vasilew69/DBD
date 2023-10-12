@@ -1,0 +1,9 @@
+{
+  "clientID": "1161409662269272135",
+  "clientSecret": "dcOGVy24XKfu3UmD0usUjBi1G1gNZ5Sx",
+  "callbackURL": "http://localhost:3000/login/api",
+  "Admin": [ "558924464365240322" ],
+  "token": "MTE2MTQwOTY2MjI2OTI3MjEzNQ.G-tWEd.q9i59tcVcmem7ZBdlCEdgtJjFVSSyVmATiCkwE",
+  "prefix": "!",
+  "port": "3000"
+}
